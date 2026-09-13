@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:1998akashbarman@gmail.com"><img src="https://img.shields.io/badge/Email-1998akashbarman%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/barmanakash"><img src="https://img.shields.io/badge/LinkedIn-barmanakash-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/02akashbarman/"><img src="https://img.shields.io/badge/LinkedIn-barmanakash-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Location-Jabalpur%2C%20MP%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
