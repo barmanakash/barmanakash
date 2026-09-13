@@ -48,26 +48,6 @@
 
 ---
 
-### 💼 Work Experience Highlight
-
-- **Frontend Developer** @ *SVAM International Inc.* (Aug 2024 – Mar 2025)
-  - Built high-performance responsive web interfaces using React.js, TypeScript, and Material UI.
-  - Reduced redundant render cycles and streamlined client RESTful API integrations in Agile setups.
-- **Associate Professional Software Engineer** @ *DXC Technology* (Feb 2022 – May 2023)
-  - Optimized UI components and layout hierarchies for multi-device responsiveness.
-  - Maintained structured Git workflows and peer code review standards.
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=barmanakash&show_icons=true&theme=dark&hide_border=true" alt="Akash's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barmanakash&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 <p align="center">
   <i>"Committed to building intelligent, scalable, and accessible web applications."</i>
 </p>
