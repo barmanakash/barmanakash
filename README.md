@@ -1,4 +1,4 @@
-# Hi, I'm Akash Barman 👋
+# Hi, 
 
 <p align="center">
   <b>Full-Stack Developer | React.js • Node.js • TypeScript | Transitioning to AI/ML</b><br>
