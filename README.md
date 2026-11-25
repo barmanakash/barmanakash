@@ -3,11 +3,6 @@
   <i>Building intelligent, high-performance, and scalable web applications</i>
 </p>
 
-<p align="center">
-  <a href="mailto:1998akashbarman@gmail.com"><img src="https://img.shields.io/badge/Email-1998akashbarman%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Location-Jabalpur%2C%20MP%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-</p>
-
 ---
 
 ### 🚀 About Me
