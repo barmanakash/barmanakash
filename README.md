@@ -1,16 +1,7 @@
 <p align="center">
-  <b>Full-Stack Developer | React.js • Node.js • TypeScript | Transitioning to AI/ML</b><br>
+  <b>Full-Stack Developer | React.js • Node.js • TypeScript | AI/ML</b><br>
   <i>Building intelligent, high-performance, and scalable web applications</i>
 </p>
-
----
-
-### 🚀 About Me
-
-- 💻 **Frontend Expertise:** 2+ years of professional experience crafting responsive UI/UX using **React.js, TypeScript, Next.js, and Material UI (MUI)**.
-- ⚙️ **Backend Engineering:** Expanding full-stack development skills with **Node.js, Express.js, RESTful APIs, WebSockets, and MongoDB**.
-- 🤖 **AI/ML Aspirations:** Currently diving deep into **Python, OpenAI APIs, LangChain, RAG pipelines, and Machine Learning fundamentals** to build AI-powered applications.
-- ⚡ **AI-Powered Developer:** Daily user of AI tools like **Cursor AI, GitHub Copilot, Claude, and ChatGPT** to supercharge productivity and write clean, robust code.
 
 ---
 
